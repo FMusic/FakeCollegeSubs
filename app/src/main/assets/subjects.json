@@ -1,0 +1,41 @@
+{
+  "Colleges" : [
+    {
+      "CollegeName": "Filozofski",
+      "Real" : [
+        "Kultura polja sa žarama",
+        "Liječnici/ vračevi, bolesti/demoni: medicina i magija u drevnoj Mezopotamiji",
+        "Litička analiza",
+        "Mentalni leksikon",
+        "Metodika nastave i skolske percepcije romske književnosti",
+        "Mislim, dakle gdje sam: književni (kon)tekst",
+        "Nizi hindski seminar",
+        "Postkolonijalizam i rod",
+        "Povijest karikature",
+        "Rano i srednje broncano doba u Karpatskoj dolini",
+        "Rodaci i bliznji - obiteljske strukture",
+        "Sport u kulturi dalekog istoka i Indije",
+        "Srednjovjekovna numizmatika",
+        "Interpolacije",
+        "Srpski jezik: jezik-kultura-drustvo",
+        "Stereotipi, predrasude i tabui u antičkom društvu",
+        "Šamanizam",
+        "Talijanski jug na filmu",
+        "Teorija svakodnevice",
+        "Upravljanje karijerom",
+        "Znakovi u društvu",
+        "Čitanje knjige",
+        "Grčka uporabna keramika"
+      ],
+      "Fake" : [
+        "Povijest bitka: od Antike do Heidiggera",
+        "Teorija upravljanja javnim mnijenjem",
+        "Nacisticki zločini iz židovske perspektive",
+        "Povijest intgriranja manjinskih zajednica",
+        "Odjeca kao simbol društvenog staleza- povijesni pregled",
+        "Tito/Tudman- sličnosti i razlike",
+        "Knjizevnost u predškolskoj dobi"
+      ]
+    }
+  ]
+}

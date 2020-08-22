@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KolegijIliNe</string>
+    <string name="pick_college">Odaberi fakultet:</string>
+    <string name="fake">IZMIŠLJENI</string>
+    <string name="real">POSTOJI</string>
+    <string name="example_screen_1">EXAMPLE SCREEN 1</string>
+</resources>
